@@ -3,7 +3,13 @@
 <head>
 	<title>Canteras R&iacute;o Mi&ntilde;o</title>
     
-    <?php header('Cache-Control: no-cache'); ?>
+    <?php 
+		header("Pragma-directive: no-cache");
+		header("Cache-directive: no-cache");
+		header("Cache-control: no-cache");
+		header("Pragma: no-cache");
+		header("Expires: 0");
+	?>
     
     <link rel="shortcut icon" href="img/logo.ico" >
     <link href="css/index.css" rel="stylesheet" type="text/css"  />
@@ -14,8 +20,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
     <title>JQuery Ajax</title>
     <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
-	<script type="text/javascript" src="js/Image-Slider-LnR.js"></script>
+    <script type="text/javascript" src="js/script.js?rndstr=<%= getRandomStr() %>"></script>
+	<script type="text/javascript" src="js/Image-Slider-LnR.js?rndstr=<%= getRandomStr() %>"></script>
 </head>
 
 <body>
