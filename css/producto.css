@@ -1,0 +1,117 @@
+#body {
+	margin: 0 auto;
+}
+
+#menu {
+	float: left;
+	
+	width: 14%;	
+	margin: 1% 1%;
+	
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+}
+
+
+a:visited {color:white;}
+
+#menu ul,
+#menu ul ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	
+	display: block;
+	line-height: 2.75em;	
+    text-indent: 0.75em;
+}
+
+
+#latmenu{
+	-webkit-box-shadow: 2px 2px 23px -2px rgba(0,0,0,0.75);
+	-moz-box-shadow: 2px 2px 23px -2px rgba(0,0,0,0.75);
+	box-shadow: 2px 2px 23px -2px rgba(0,0,0,0.75);
+	
+	border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border: 0px solid #000000;
+	
+	background-color: #0c27ab;
+	color: #FFF;
+	
+}
+
+
+.item {
+	margin-top: 2px;
+	background-color: #09F;
+}
+
+
+.item:hover {
+	background-color: #3f77d9;
+}
+
+#cont_prod {
+	float: left;
+	
+	width: 83%;
+	height: 100%;
+}
+
+#mainimg {
+	float: left;
+	margin: 2% 2% 2% 4%;
+}
+
+.#main li {
+	list-style: none;
+}
+
+.certificate {
+	float: left;
+}
+/* productos individuales */
+
+#izq {
+	margin-left: 4%;
+	float: left;
+	width: 40%;
+	height: auto;
+}
+
+#der {
+	margin-top: 1%;
+	margin-right: 6%;
+	float:left;
+	width: 40%;
+}
+
+.parrafo {
+	padding-top:5%; font-size: 24px; text-align:left; font-family: 'Open Sans', sans-serif;
+}
+
+#mainprod {
+	width: 70%;
+	height: 80%;
+	
+	float: left;
+}
+
+#image {
+	float: left;
+	margin: 2% 2% 2% 15%;
+
+}
+
+#prod {
+	font-size: 120%;
+	font-family: 'Open Sans', sans-serif;
+	color:#03F;
+	line-height: 2em;
+}
+
+span.descr {
+	color: #000;
+}

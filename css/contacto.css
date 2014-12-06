@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0 auto;
+}
+
+#der {
+	float: left;
+	margin: 2% 0% 2% 2%;
+	height: 80%;
+}
+
+#telf {
+	margin-top: 5%;
+	font-family: 'Dosis', sans-serif;
+	font-size: 160%;
+	
+	line-height: 2em;
+}
+
+span.tfn {
+	color:#03F;
+	font-size:120%;
+}
+
+#email {
+	font-family: 'Dosis', sans-serif;
+	font-size: 160%;
+	
+	line-height: 2em;
+}
+
+span.mail {
+	color:#03F;
+	font-size: 120%;
+}

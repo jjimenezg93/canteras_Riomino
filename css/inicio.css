@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0 auto;
+}
+
+#izq {
+	margin-left: 4%;
+	float: left;
+	width: 40%;
+	height: auto;
+}
+
+#der {
+	margin-top: 1%;
+	margin-right: 6%;
+	float:right;
+	width: 40%;
+}
+
+#parrafo {
+	text-align:justify;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 100%;
+}
