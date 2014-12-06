@@ -20,8 +20,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
     <title>JQuery Ajax</title>
     <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="js/script.js?rndstr=<%= getRandomStr() %>"></script>
-	<script type="text/javascript" src="js/Image-Slider-LnR.js?rndstr=<%= getRandomStr() %>"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+	<script type="text/javascript" src="js/Image-Slider-LnR.js"></script>
 </head>
 
 <body>
