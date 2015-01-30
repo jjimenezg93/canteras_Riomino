@@ -21,6 +21,13 @@ body {
 
 #parrafo {
 	text-align:justify;
-	font-family:Verdana, Geneva, sans-serif;
-	font-size: 100%;
+	padding-top:5%;
+	font-size: 18px;
+	text-align:left;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.head {
+	width:auto;
+	height:80px;
 }

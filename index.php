@@ -2,16 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<title>Canteras R&iacute;o Mi&ntilde;o</title>
-    
-    <?php 
-		header("Pragma-directive: no-cache");
-		header("Cache-directive: no-cache");
-		header("Cache-control: no-cache");
-		header("Pragma: no-cache");
-		header("Expires: 0");
-	?>
+
     
     <link rel="shortcut icon" href="img/logo.ico" >
+	
     <link href="css/index.css" rel="stylesheet" type="text/css"  />
     <link href='http://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'> <!-- fuente Didact Gothic -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:600,400' rel='stylesheet' type='text/css'> <!-- fuente Open Sans -->
@@ -21,7 +15,6 @@
     <title>JQuery Ajax</title>
     <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
-	<script type="text/javascript" src="js/Image-Slider-LnR.js"></script>
 </head>
 
 <body>
@@ -48,7 +41,7 @@
     </div>
     
     <div id="footer">
-    <p>2014 Canteras R&iacute;omi&ntilde;o S.A.
+    <p>2015 Canteras R&iacute;omi&ntilde;o S.A.
     </div>
 </body>
 

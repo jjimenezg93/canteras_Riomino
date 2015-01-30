@@ -9,7 +9,7 @@
         <div id="cont_prod">
         	<div id="izq">
                 <div id="parrafo">
-                    <ul style="padding-top:5%; font-size: 24px; text-align:left; font-family: 'Open Sans', sans-serif;">
+                    <ul style="padding-top:5%; font-size: 20px; text-align:left; font-family: 'Open Sans', sans-serif;">
                         <li><p>ISO 9001 y marcado CE</p></li>
                         <li><p>B&aacute;scula calibrada y certificada</p></li>
                         <li><p>Instalaci&oacute;n y maquinaria certificada seg&uacute;n normativa CE</p></li>
@@ -22,7 +22,7 @@
             	
             </div>
             <div id="der">
-	        	<div id="mainimg"><img src="./img/productos/montanas_material.jpg" alt="applus" /></div><div>
+	        	<div id="mainimg"><img src="./img/productos/montanas_material.jpg" alt="applus" />
                     <img class="certificate" src="./img/productos/applus.png" alt="applus" />
                     <img class="certificate" src="./img/productos/ce.png" alt="ce" />
 				</div>
