@@ -17,7 +17,7 @@
         <p id="parrafo">La explotaci&oacute;n data de 1962, denominada anteriormente Cantera Charra dedicada a la extracci&oacute;n de perpia&ntilde;o. Posteriormente, un grupo de constructores ourensanos ponen en marcha las primeras instalaciones de trituraci&oacute;n y clasificaci&oacute;n de &aacute;ridos denominada Canteras Gran&iacute;ticas Orensanas, S.L. (Canteras Outariz).<br /> El 26 de septiembre de 1973 Don Jos&eacute; Finamor Gonz&aacute;lez Bouza adquiere la explotaci&oacute;n, ampliando los terrenos y las instalaciones. El 25 de enero de 1986 pasa a denominarse Canteras Riomi&ntilde;o S.A. siendo regentada en la actualidad por su hijo Camilo Gonz&aacute;lez Prieto.</p>
     </div>
     <div id="der">
-          <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+          <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="max-width: 600px;">
           <!-- Indicators -->
           <ol class="carousel-indicators">
             <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -30,31 +30,31 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="img/movim/img1.jpg" alt="...">
+              <img class="img-responsive center-block" src="img/movim/img1.jpg" alt="...">
               <div class="carousel-caption">
                  <!-- <h3>Caption Text</h3> -->
               </div>
             </div>
             <div class="item">
-              <img src="img/movim/img2.jpg" alt="...">
+              <img class="img-responsive center-block" src="img/movim/img2.jpg" alt="...">
               <div class="carousel-caption">
                  <!-- <h3>Caption Text</h3> -->
               </div>
             </div>
             <div class="item">
-              <img src="img/movim/img3.jpg" alt="...">
+              <img class="img-responsive center-block" src="img/movim/img3.jpg" alt="...">
               <div class="carousel-caption">
                  <!-- <h3>Caption Text</h3> -->
               </div>
             </div>
             <div class="item">
-              <img src="img/movim/img4.jpg" alt="...">
+              <img class="img-responsive center-block" src="img/movim/img4.jpg" alt="...">
               <div class="carousel-caption">
                  <!-- <h3>Caption Text</h3> -->
               </div>
             </div>
             <div class="item">
-              <img src="img/movim/img5.jpg" alt="...">
+              <img class="img-responsive center-block" src="img/movim/img5.jpg" alt="...">
               <div class="carousel-caption">
                  <!-- <h3>Caption Text</h3> -->
               </div>
@@ -63,10 +63,10 @@
          
           <!-- Controls -->
           <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-            
+          	<span class="glyphicon glyphicon-chevron-left"></span>
           </a>
           <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-            
+          	<span class="glyphicon glyphicon-chevron-right"></span>
           </a>
         </div> <!-- Carousel -->
 		<!--		<ul id="bxslider">
